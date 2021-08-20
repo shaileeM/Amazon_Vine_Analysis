@@ -24,3 +24,8 @@ non Vine members.
 
 
 ## Summary
+We can see that even though in the paid Vine program there were only 3 reviews, out of that 2 has full 5 stars in 
+contrast to non paid Vine program, inspite of having 3094 reviews there were only 1704 , 5 sta reviews. 
+Reviews recieving 5 stars were 11% more than reviews recieving 5 stars for paid Vine program. 
+
+We could also filter the data on verified_purchase column to remove the reviews for non verified purchases. 
