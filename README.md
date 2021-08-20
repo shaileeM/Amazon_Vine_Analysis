@@ -18,7 +18,8 @@ non Vine members.
    66.6 : Vine reviews were 5 stars
    55.07 : non-Vine reviews were 5 stars
    
-![](.Images/Vine_review_analysis.PNG)
+![](./Images/Vine_review_analysis.PNG)
+
 
 
 
